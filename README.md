@@ -1,5 +1,7 @@
 # My attempts at implementing various algorithms in golang
 
+## Implemented algorithms
+
 * AVL tree
 * Binary search
 * Fibonacci search
